@@ -9,6 +9,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.13" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.13" PrivateAssets="all" />
+	  <PackageReference Include="Blazored.SessionStorage" Version="1.0.12" />
+	  <PackageReference Include="BlazorPro.BlazorSize" Version="5.0.0" />
   </ItemGroup>
 
 </Project>

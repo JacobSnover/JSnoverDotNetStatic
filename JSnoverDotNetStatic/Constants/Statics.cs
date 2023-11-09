@@ -1,0 +1,1 @@
+﻿namespace JSnoverDotNetStatic.Constants{public static class Statics{}}
